@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+// https://web.archive.org/web/20181208031518/https://articles.leetcode.com/longest-palindromic-substring-part-ii/#comment-7099
 func min(a, b int) int {
 	if a > b {
 		return b
